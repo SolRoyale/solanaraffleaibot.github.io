@@ -15,11 +15,14 @@ These competitions can be hosted on any platform or game a developer chooses. Ho
 
 Stumble Guys is a massive multiplayer party knockout game with up to 32 players online similar to the game Fall Guys. The map that will be played will be Laser Tracer, whereby the last player standing will be crowned the winner!
 
+### Honey Drop Map
 ![App Screenshot](https://pbs.twimg.com/ext_tw_video_thumb/1646195954079481866/pu/img/gh4JlwkQJ2uZ7BJs.jpg:large)
-Honey Drop Map
 
-![App Screenshot](https://i.ytimg.com/vi/e0ayLDgYsyM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAbI3RLDYRaHKErBIwDcQul1wDZ-g)
-Laser Tracer Map
+### Cannon Climb
+![App Screenshot](https://static.filehorse.com/screenshots/games/stumble-guys-screenshot-01.png)
+
+
+
 ## Features
 
 - Fair participation in games/contests/raffles for Solana prizes
@@ -99,14 +102,10 @@ For leaderboard results
 
 ## Demo
 
-Insert gif or link to demo
+![App Screenshot](https://media.tenor.com/Hd7LXDBz6qkAAAAM/stumble-guys.gif)
 
 
-## Screenshots
-
-![App Screenshot](https://i.ytimg.com/vi/e0ayLDgYsyM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAbI3RLDYRaHKErBIwDcQul1wDZ-g)
-
-
+![App Screenshot](https://media.tenor.com/u9exTGy3NcgAAAAM/stumble-guys-honey-drop.gif)
 ## FAQ
 
 #### How do I join a Sol Royale game lobby?
