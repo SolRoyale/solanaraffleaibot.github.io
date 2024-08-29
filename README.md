@@ -61,7 +61,9 @@ On Stumble Guys, name changes can only be changed once for free.
 7. Transfer sufficient funds of SOL to your new Solana wallet.
 
 8. Access Sol Royale Bot on Telegram.
-Select the "Enter" button. Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay the entry fee to be admitted into the new Pre-Game Lobby Group. If you take too long to pay, your seat will be revoked and given to someone else.
+
+Select the "Enter" button.
+Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay the entry fee to be admitted into the new Pre-Game Lobby Group. If you take too long to pay, your seat will be revoked and given to someone else.
 
 9. Once you have been delegated a seat, please send the stated entry fee amount to Sol Royale Bot's specified address.
 
