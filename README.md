@@ -40,6 +40,7 @@ Stumble Guys is a massive multiplayer party knockout game that can host lobbies 
 1. Create a new Solana wallet on Phantom and label it Sol Royale. Copy your new Solana wallet address.
 
 2. Access Sol Royale Bot on Telegram.
+
 Type /start command.
 
 You will be asked to create a username that will be associated with your Telegram account. This username must be between 4 and 12 characters long. This username should be the same as your Steam username.
