@@ -4,9 +4,11 @@ https://t.me/solroyale
 
 #### Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?
 
-Sol Royale Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Sol Royale Bot enables fair participation in a simple-to-use manner and validates transactions, such as paying the winner of the contest transparently for all members to see.
+Sol Royale Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Sol Royale Bot enables fair participation in a simple-to-use manner and validates transactions publicly; such as, paying the winner of the contest transparently for all members to see with accompanying Solscan transaction link.
 
 These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Sol Royale Bot at this point in time, it will only be used for participants to play the online multiplayer game 'Stumble Guys'.
+
+In order to use Sol Royale Bot, you must be subscribed to the Sol Royale Channel on Telegram.
 
 
 
@@ -64,7 +66,7 @@ On Stumble Guys, name changes can only be changed once for free.
 
 ![App Screenshot](https://i.gyazo.com/afe169c8f2ceb4fb44e66a4b82f631c0.gif)
 
-7. Select Server Region as ASIA.
+7. Change Server Region to ASIA.
 
 ![App Screenshot](https://i.gyazo.com/606588c3f30304ccd8ce422e120dba63.gif)
 
@@ -143,7 +145,8 @@ Every 5th consecutive win refers to when a participant wins their 5th game, 10th
 - Total Games Won: 5 = 0.25 Bonus SOL prize!
 - Total Games Won: 10 = 0.25 Bonus SOL prize!
 - Total Games Won: 15 = 0.25 Bonus SOL prize!
-## Sol Royale Bot on Telegram
+## Sol Royale Bot
+
 Subscribe to the channel!
 
 https://t.me/solroyale
