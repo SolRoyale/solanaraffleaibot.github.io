@@ -53,7 +53,7 @@ You will be asked to create a username (this will be associated with your Telegr
 ❗️ Note: You will not be able to change this username after this. ❗️
 
 3. Access Sol Royale Bot on Telegram.
-After selecting the "Attach Wallet" button, please paste your Solana wallet address here.
+After selecting the "Attach Wallet Address" button, please paste your Solana wallet address here.
 
 4. Download and install Steam using the link below:
 https://store.steampowered.com/about/
