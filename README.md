@@ -140,7 +140,10 @@ This ensures that participants who have paid the entry fee are the ones particip
 #### 7. What is the entry fee, and can it be customised?
 The entry fee varies depending on the round and is always displayed in each announcement of new game rounds. Higher fees result in larger prize pools, therefore larger takings for the winner of that round!
 
-#### 8. What is the bonus Solana prize for every 5th consecutive win?
+#### 8. How much are the service fees per round?
+Service fees are recycled into the payment pool required to pay future winners in new rounds; as well as paying out bonus Solana prizes to regular participants. Service fees contribute towards marketing costs and software development costs to improving Sol Royale Bot's functionality. Service fees equal 0.01 sol per round and is already included within the entry fee.
+
+#### 9. What is the bonus Solana prize for every 5th consecutive win?
 Every 5th consecutive win refers to when a participant wins their 5th game, 10th game, 15th game, and so on. At every interval, this participant will receive a bonus Solana prize of 0.25 SOL.
 - Total Games Won: 5 = 0.25 Bonus SOL prize!
 - Total Games Won: 10 = 0.25 Bonus SOL prize!
