@@ -77,7 +77,7 @@ On Stumble Guys, name changes can only be changed once for free.
 Select the "Enter" button.
 Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay the entry fee to be admitted into the new Pre-Game Lobby Group. Once you have been delegated a seat, please send the stated entry fee amount to Sol Royale Bot's specified address. You must send payment from the SAME WALLET ADDRESS you attached to Sol Royale Bot, otherwise, the transaction cannot be verified. If you take too long to pay, your seat will be revoked and given to someone else.
 
-10. Once your transaction has been verified, Sol Royale Bot will send you a unique one-time link to a private group on Telegram. This group is the Pre-Game Lobby Group, which will contain other participants who have paid entry for the round. Participants who have not paid will be unable to join the Pre-Game Lobby Group.
+10. Once your transaction has been verified, select the "Join Lobby" button to be added to the Pre-Game Lobby Group, which will contain other participants who have paid entry for the round. Participants who have not paid will be unable to join the Pre-Game Lobby Group.
 
 11. The prize from being the winner in a Stumble Guys Round is equal to the pot prize pool (equal to the accumulation of all entry fees paid by participants) minus the service fees per player.
 
