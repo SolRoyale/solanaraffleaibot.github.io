@@ -31,7 +31,7 @@ Stumble Guys is a massive multiplayer party knockout game that can host lobbies 
 ## Features
 
 - Fair participation in games/contests/raffles for Solana prizes
-- Alotted seat designation for entry fee payments
+- Allotted seat designation for entry fee payments
 - Testimonials of winning participants accompanied with Solscan transactions of the winner receiving payment
 - Leaderboard display of total games won by individual participants
 - For every 5th consecutive win, participants receive a bonus Solana prize
@@ -75,7 +75,7 @@ On Stumble Guys, name changes can only be changed once for free.
 9. Access Sol Royale Bot on Telegram.
 
 Select the "Enter" button.
-Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay the entry fee to be admitted into the new Pre-Game Lobby Group. Once you have been delegated a seat, please send the stated entry fee amount to Sol Royale Bot's specified address. You must send payment from the SAME WALLET ADDRESS you attached to Sol Royale Bot, otherwise, the transaction cannot be verified. If you take too long to pay, your seat will be revoked and given to someone else.
+Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay the entry fee to be admitted into the new Pre-Game Lobby Group. Do not navigate away from this panel or type any commands when trying to make payment. Make payment first, and once it has been confirmed, you may navigate away as you please. You must send payment from the SAME WALLET ADDRESS you attached to Sol Royale Bot, otherwise, the transaction cannot be verified. If you take too long to pay, your seat will be revoked and you will have to re-enter. After sending payment, please allow up to 1 minute for the transaction to be verified. Thank you.
 
 10. Once your transaction has been verified, select the "Join Lobby" button to be added to the Pre-Game Lobby Group, which will contain other participants who have paid entry for the round. Participants who have not paid will be unable to join the Pre-Game Lobby Group.
 
@@ -86,31 +86,31 @@ Sol Royale Bot will assign you a "seat" where you will be given 2 minutes to pay
 Access Sol Royale Bot on Telegram.
 
 
-#### To begin Sol Royale Bot and access the Main Menu
+#### To begin Sol Royale Bot and access the Main Menu:
 
 ```bash
   Type /start 
 ```
 
-#### To obtain your chat ID
+#### To obtain your chat ID:
 
 ```bash
   Type /chatid
 ```
 
-#### For information about Sol Royale Bot
+#### For information about Sol Royale Bot:
 
 ```bash
   Type /info
 ```
 
-#### For FAQ
+#### For FAQ:
 
 ```bash
   Type /faq
 ```
 
-#### For leaderboard results 
+#### For leaderboard results: 
 
 ```bash
   Type /leaderboard
