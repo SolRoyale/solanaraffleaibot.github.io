@@ -8,7 +8,7 @@ Sol Royale Bot is the first Telegram Solana Bot that enables users to participat
 
 These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Sol Royale Bot at this point in time, it will only be used for participants to play the online multiplayer game 'Stumble Guys'.
 
-In order to use Sol Royale Bot, you must be subscribed to the Sol Royale Channel on Telegram.
+In order to use Sol Royale Bot, you must be subscribed to the Sol Royale Channel and Sol Royale Group on Telegram.
 
 
 
@@ -150,7 +150,7 @@ Every 5th consecutive win refers to when a participant wins their 5th game, 10th
 - Total Games Won: 15 = 0.25 Bonus SOL prize!
 ## Sol Royale Bot
 
-Subscribe to the channel!
+To use Sol Royale Bot, please subscribe to the Sol Royale Channel and Group!
 
 https://t.me/solroyale
 
