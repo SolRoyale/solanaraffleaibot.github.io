@@ -2,7 +2,7 @@
 description: https://t.me/SolRoyaleBot
 cover: >-
   .gitbook/assets/julzbrah_A_cute_round_wobbly_character_inspired_by_Fall_Guys_si_c174e444-99e5-4911-9daf-b4e9ff01a116.png
-coverY: 189.18260050462573
+coverY: 262.547933837959
 layout:
   cover:
     visible: true
