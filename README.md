@@ -1,12 +1,11 @@
 ---
-description: https://t.me/SolRoyaleBot
-cover: >-
-  .gitbook/assets/julzbrah_A_cute_round_wobbly_character_inspired_by_Fall_Guys_si_c174e444-99e5-4911-9daf-b4e9ff01a116.png
-coverY: 179.5292671712924
+description: https://t.me/RaffleRunnerBot
+cover: .gitbook/assets/Raffle Runner.png
+coverY: 82.78748651564186
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
@@ -19,16 +18,16 @@ layout:
     visible: true
 ---
 
-# Sol Royale Bot
+# Raffle Runner Bot
 
 **Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?**
 
-Sol Royale Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Sol Royale Bot enables fair participation in a simple-to-use manner and is used to validate transactions publicly; such as, paying the winner of the contest transparently for all members to see with the accompanying Solscan transaction link.
+Raffle Runner Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Raffle Runner Bot enables fair participation in a simple-to-use manner and is used to validate transactions publicly; such as, paying the winner of the contest transparently for all members to see with the accompanying Solscan transaction link.
 
-These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Sol Royale Bot at this point in time, it will only be used for participants to participate in an online 'Spin The Wheel' raffle.
+These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Raffle Runner Bot at this point in time, it will only be used for participants to participate in an online 'Spin The Wheel' raffle.
 
-In order to use Sol Royale Bot, you must be subscribed to the Sol Royale Channel and Sol Royale Group on Telegram.\
-Channel: https://t.me/solroyale
+In order to use Raffle Runner Bot, you must be subscribed to the Raffle Runner Channel and Raffle Runner Group on Telegram.\
+**Channel:** [https://t.me/rafflerunnerchannel](https://t.me/rafflerunnerchannel)
 
 ### Features
 

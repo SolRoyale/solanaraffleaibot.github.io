@@ -1,22 +1,14 @@
 # Links
 
-To use Sol Royale Bot, first please subscribe to the Sol Royale Channel and Group!
+To use Raffle Runner Bot, first please subscribe to the Raffle Runner Channel and Group!
 
-{% embed url="https://t.me/solroyale" %}
+{% embed url="https://t.me/rafflerunnerchannel" fullWidth="false" %}
 
-Then, start an interaction with Sol Royale Bot:
+Then, start an interaction with Raffle Runner Bot:
 
-{% embed url="https://t.me/SolRoyaleBot" %}
+{% embed url="https://t.me/RaffleRunnerBot" %}
 
 X:
 
-[https://x.com/solanaroyale](https://x.com/solanaroyale)
-
-
-
-Twitch:
-
-[https://www.twitch.tv/solroyalebot](https://www.twitch.tv/solroyalebot)
-
-
+{% embed url="https://x.com/rafflerunner_" %}
 

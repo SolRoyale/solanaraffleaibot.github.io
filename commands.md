@@ -1,5 +1,5 @@
 ---
-description: Access Sol Royale Bot on Telegram.
+description: Access Raffle Runner Bot on Telegram.
 ---
 
 # Commands
@@ -16,7 +16,7 @@ description: Access Sol Royale Bot on Telegram.
   Type /chatid
 ```
 
-**For information about Sol Royale Bot:**
+**For information about** Raffle Runner Bot**:**
 
 ```bash
   Type /info
