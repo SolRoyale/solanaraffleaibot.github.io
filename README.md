@@ -1,7 +1,7 @@
 ---
 description: https://t.me/SolanaRaffleAIBot
-cover: .gitbook/assets/Raffle Runner.png
-coverY: 82.78748651564186
+cover: .gitbook/assets/Wobble.png
+coverY: 182
 layout:
   cover:
     visible: true
