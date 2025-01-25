@@ -1,10 +1,10 @@
 # Links
 
-To use Raffle Runner Bot, first please subscribe to the Raffle Runner Channel and Group!
+To use Solana Raffle AI Bot, first please subscribe to the Solana Raffle AI Bot Channel and Group!
 
 {% embed url="https://t.me/rafflerunnerchannel" fullWidth="false" %}
 
-Then, start an interaction with Raffle Runner Bot:
+Then, start an interaction with Solana Raffle AI Bot:
 
 {% embed url="https://t.me/RaffleRunnerBot" %}
 

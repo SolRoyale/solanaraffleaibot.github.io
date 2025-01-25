@@ -1,5 +1,5 @@
 ---
-description: https://t.me/RaffleRunnerBot
+description: https://t.me/SolanaRaffleAIBot
 cover: .gitbook/assets/Raffle Runner.png
 coverY: 82.78748651564186
 layout:
@@ -18,16 +18,16 @@ layout:
     visible: true
 ---
 
-# Raffle Runner Bot
+# Solana Raffle AI Bot
 
 **Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?**
 
-Raffle Runner Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Raffle Runner Bot enables fair participation in a simple-to-use manner and is used to validate transactions publicly; such as, paying the winner of the contest transparently for all members to see with the accompanying Solscan transaction link.
+Solana Raffle AI Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Solana Raffle AI Bot enables fair participation in a simple-to-use manner and is used to validate transactions publicly; such as, paying the winner of the contest transparently for all members to see with the accompanying Solscan transaction link.
 
-These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Raffle Runner Bot at this point in time, it will only be used for participants to participate in an online 'Spin The Wheel' raffle.
+These contests can be hosted on any platform or game that the host chooses. However, for the purpose of Solana Raffle AI Bot at this point in time, it will only be used for participants to participate in an online 'Spin The Wheel' raffle.
 
-In order to use Raffle Runner Bot, you must be subscribed to the Raffle Runner Channel and Raffle Runner Group on Telegram.\
-**Channel:** [https://t.me/rafflerunnerchannel](https://t.me/rafflerunnerchannel)
+In order to use Solana Raffle AI Bot, you must be subscribed to the Solana Raffle AI Bot Channel and Solana Raffle AI Bot Group on Telegram.\
+**Channel:** [https://t.me/S](https://t.me/rafflerunnerchannel)olanaRaffleAIBot
 
 ### Features
 

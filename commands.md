@@ -4,7 +4,7 @@ description: Access Raffle Runner Bot on Telegram.
 
 # Commands
 
-**To begin Sol Royale Bot and access the Main Menu:**
+**To begin Solana Raffle AI Bot and access the Main Menu:**
 
 ```bash
   Type /start 
@@ -16,7 +16,7 @@ description: Access Raffle Runner Bot on Telegram.
   Type /chatid
 ```
 
-**For information about** Raffle Runner Bot**:**
+**For information about Solana Raffle AI Bot:**
 
 ```bash
   Type /info
