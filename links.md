@@ -4,13 +4,15 @@ To use Solana Raffle AI Bot, first please subscribe to the Solana Raffle AI Bot 
 
 Then, start an interaction with Solana Raffle AI Bot:
 
-{% embed url="https://t.me/SolanaRaffleAIBot" %}
+TG:
+
+{% embed url="https://t.me/rafflerunnerchannel" %}
 
 
-
-{% embed url="https://t.me/RaffleRunnerBot" %}
 
 X:
 
-{% embed url="https://x.com/rafflerunner_" %}
+{% embed url="https://x.com/solraffleaibot" %}
+
+
 

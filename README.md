@@ -1,5 +1,5 @@
 ---
-description: https://t.me/SolanaRaffleAIBot
+description: https://t.me/rafflerunnerchannel
 cover: .gitbook/assets/Wobble.png
 coverY: 182
 layout:
