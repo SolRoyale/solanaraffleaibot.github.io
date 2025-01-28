@@ -20,7 +20,7 @@ layout:
 
 # Solana Raffle AI Bot
 
-**CA:**&#x20;
+**CA:** 8geXZzUDW9nANhny1WjxXUnQkPbhadYfDK4N4qqopump
 
 **Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?**
 
