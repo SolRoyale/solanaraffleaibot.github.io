@@ -4,7 +4,7 @@ To use Solana Raffle AI Bot, first please subscribe to the Solana Raffle AI Bot 
 
 Then, start an interaction with Solana Raffle AI Bot:
 
-PUMP:&#x20;
+PUMP: [https://pump.fun/coin/JAWR3SGyy6z9gBFKsvCWcQSKQiFq1F7atQsx1jkwpump](https://pump.fun/coin/JAWR3SGyy6z9gBFKsvCWcQSKQiFq1F7atQsx1jkwpump)
 
 TG:
 

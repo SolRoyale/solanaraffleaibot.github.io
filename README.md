@@ -20,7 +20,7 @@ layout:
 
 # Solana Raffle AI Bot
 
-**CA:**&#x20;
+**CA:** [**https://pump.fun/coin/JAWR3SGyy6z9gBFKsvCWcQSKQiFq1F7atQsx1jkwpump**](https://pump.fun/coin/JAWR3SGyy6z9gBFKsvCWcQSKQiFq1F7atQsx1jkwpump)
 
 **Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?**
 
