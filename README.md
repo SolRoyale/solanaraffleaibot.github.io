@@ -20,8 +20,6 @@ layout:
 
 # Solana Raffle AI Bot
 
-**CA:** 4Y8NyX34UFUxbvZHwJs4SHT6yXuaejmTiwkvPneapump
-
 **Do you want to put your skills to the test and compete against others to win the ultimate Solana prize?**
 
 Solana Raffle AI Bot is the first Telegram Solana Bot that enables users to participate in contests, raffles and games to win Solana as the prize! Solana Raffle AI Bot enables fair participation in a simple-to-use manner and is used to validate transactions publicly; such as, paying the winner of the contest transparently for all members to see with the accompanying Solscan transaction link.
