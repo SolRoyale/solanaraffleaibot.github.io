@@ -1,5 +1,5 @@
 ---
-description: Access Raffle Runner Bot on Telegram.
+description: Access Solana Raffle AI Bot on Telegram.
 ---
 
 # Commands
